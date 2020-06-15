@@ -1,0 +1,226 @@
+2020-06-11 12:53:19,181 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 12:53:24,416 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 12:53:24,419 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 12:53:24,963 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 12:53:42,939 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 12:53:42,942 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 12:53:47,668 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 12:53:50,548 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 12:53:54,067 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 12:53:59,083 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 12:53:59,088 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 12:53:59,616 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 12:54:19,794 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 12:54:23,690 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 12:54:27,210 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 12:54:31,060 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 12:54:31,063 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 12:54:31,582 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 12:54:44,809 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 12:54:45,220 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 12:54:48,710 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 12:54:52,065 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 12:54:58,724 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 12:54:58,727 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 12:54:59,236 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 12:55:15,914 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 12:55:18,928 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 12:55:21,540 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 14:59:58,197 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 15:00:03,398 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 15:00:03,401 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 15:00:03,933 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 15:00:23,853 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 15:00:23,854 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 15:00:28,591 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 15:00:31,671 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 15:00:36,861 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 15:00:40,185 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 15:00:40,188 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 15:00:40,698 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 15:00:49,967 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 15:00:53,911 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 15:00:57,263 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 15:01:01,828 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 15:01:01,832 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 15:01:02,334 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 15:01:16,585 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 15:01:17,001 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 15:01:20,472 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 15:01:23,859 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 15:01:28,534 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 15:01:28,536 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 15:01:29,044 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 15:01:38,901 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 15:01:41,913 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 15:01:45,307 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:09:27,548 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:09:32,903 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:09:32,910 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:09:33,208 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:09:49,143 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 20:09:49,144 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 20:09:53,157 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 20:09:55,989 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:09:59,185 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:10:02,454 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:10:02,454 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:10:02,738 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:10:15,176 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 20:10:18,693 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:10:21,984 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:10:26,629 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:10:26,630 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:10:26,884 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:10:43,762 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 20:10:43,932 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 20:10:47,281 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:10:50,628 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:10:54,286 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:10:54,288 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:10:54,580 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:10:58,026 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 20:11:01,045 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 20:11:03,031 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:13:32,821 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:13:36,594 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:13:36,595 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:13:36,876 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:13:49,093 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 20:13:49,093 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 20:13:52,957 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 20:13:54,964 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:13:58,176 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:14:02,859 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:14:02,860 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:14:03,107 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:14:16,403 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 20:14:20,440 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:14:23,627 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:14:28,270 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:14:28,276 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:14:28,541 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:14:41,026 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 20:14:41,211 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 20:14:44,521 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:14:47,833 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:14:53,255 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:14:53,256 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:14:53,517 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:15:02,747 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 20:15:05,757 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 20:15:08,786 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:48:55,824 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:49:01,065 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:49:01,075 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:49:01,384 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:49:18,726 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 20:49:18,726 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 20:49:22,808 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 20:49:25,037 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:49:28,341 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:49:32,727 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:49:32,730 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:49:33,249 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:49:49,296 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 20:50:04,557 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:50:08,128 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:50:12,757 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:50:12,759 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:50:13,073 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:50:29,921 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 20:50:30,717 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 20:50:34,000 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 20:50:37,266 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 20:50:41,070 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 20:50:41,073 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 20:50:41,391 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 20:50:47,918 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 20:50:50,931 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 20:50:53,334 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 21:12:05,128 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 21:12:10,761 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 21:12:10,764 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 21:12:11,299 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 21:12:34,635 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-11 21:12:34,635 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-11 21:12:38,675 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-11 21:12:41,727 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 21:12:46,246 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 21:12:51,935 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 21:12:51,941 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 21:12:52,244 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 21:13:06,590 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-11 21:13:10,505 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 21:13:14,037 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 21:13:18,206 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 21:13:18,210 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 21:13:18,786 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 21:13:31,724 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-11 21:13:32,036 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-11 21:13:35,441 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-11 21:13:38,847 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-11 21:13:43,488 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-11 21:13:43,491 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-11 21:13:44,002 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-11 21:13:51,848 - SampleCucumber -INFO - ********Login failure**************
+2020-06-11 21:13:54,869 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-11 21:13:57,889 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-12 09:50:49,999 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-12 09:50:54,496 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-12 09:50:54,497 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-12 09:50:54,832 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-12 09:51:12,691 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-12 09:51:12,691 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-12 09:51:16,556 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-12 09:51:20,229 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-12 09:51:23,610 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-12 09:51:27,844 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-12 09:51:27,845 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-12 09:51:28,106 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-12 09:51:41,114 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-12 09:51:44,563 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-12 09:51:47,947 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-12 09:51:52,001 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-12 09:51:52,002 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-12 09:51:52,264 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-12 09:52:03,464 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-12 09:52:03,625 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-12 09:52:07,030 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-12 09:52:10,584 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-12 09:52:14,042 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-12 09:52:14,043 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-12 09:52:14,294 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-12 09:52:19,509 - SampleCucumber -INFO - ********Login failure**************
+2020-06-12 09:52:22,516 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-12 09:52:24,327 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-12 10:28:05,895 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-13 10:40:21,196 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-13 10:40:25,605 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-13 10:40:25,613 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-13 10:40:26,272 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-13 10:40:40,400 - SampleCucumber -INFO - ********Adding new Customer**************
+2020-06-13 10:40:40,400 - SampleCucumber -INFO - ********Providing customer Details**************
+2020-06-13 10:40:45,603 - SampleCucumber -INFO - ********Saving cuctomer Data**************
+2020-06-13 10:40:48,414 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-13 10:40:56,081 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-13 10:40:59,384 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-13 10:40:59,387 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-13 10:41:00,095 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-13 10:41:10,713 - SampleCucumber -INFO - ********Searching customer EmailId**************
+2020-06-13 10:41:15,092 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-13 10:41:18,605 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-13 10:41:22,853 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-13 10:41:22,857 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-13 10:41:23,470 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-13 10:41:34,768 - SampleCucumber -INFO - ********Searching yhe customer by firstName**************
+2020-06-13 10:41:35,224 - SampleCucumber -INFO - ********Searching the Customer By LastName**************
+2020-06-13 10:41:38,735 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-13 10:41:42,438 - SampleCucumber -INFO - ********Lanching Browser**************
+2020-06-13 10:41:46,041 - SampleCucumber -INFO - ********Lanching URL**************
+2020-06-13 10:41:46,043 - SampleCucumber -INFO - ********Providing login Details**************
+2020-06-13 10:41:46,635 - SampleCucumber -INFO - ********Starting loginr**************
+2020-06-13 10:41:50,999 - SampleCucumber -INFO - ********Login failure**************
+2020-06-13 10:41:54,029 - SampleCucumber -INFO - ********Click on logout link**************
+2020-06-13 10:41:56,070 - SampleCucumber -INFO - ********Closing Browser**************
+2020-06-13 17:30:20,837 - SampleCucumber -INFO - ********Lanching Browser**************
